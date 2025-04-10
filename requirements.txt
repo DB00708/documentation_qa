@@ -13,6 +13,6 @@ langchain~= 0.3.18
 langchain_community~=0.3.17
 langchain-pinecone~=0.2.5
 langchain-core~=0.3.34
-pinecone-client==2.2.4
+pinecone-client~=5.0.1
 tiktoken~=0.8.0
 sentence-transformers~=4.0.2
