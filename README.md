@@ -222,6 +222,9 @@ docker run -p 5000:5000 -p 8501:8501 \
 
 ## Development
 
+### HLSD Architecture
+You can follow the link:- https://miro.com/app/board/uXjVIEMoCnw=/?moveToWidget=3458764624349424933&cot=14
+
 ### Project Structure
 
 ```
