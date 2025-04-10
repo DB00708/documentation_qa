@@ -1,0 +1,18 @@
+Crawl4AI~=0.5.0
+playwright~=1.50.0
+argparse~=1.4.0
+Flask~=3.0.3
+streamlit~=1.44.1
+requests~=2.32.3
+python-dotenv~=1.0.1
+pipmaster~=0.5.4
+pinecone~=6.0.2
+gunicorn==21.2.0
+langchain-openai~=0.3.4
+langchain~= 0.3.18
+langchain_community~=0.3.17
+langchain-pinecone~=0.2.5
+langchain-core~=0.3.34
+pinecone-client==2.2.4
+tiktoken~=0.8.0
+sentence-transformers~=4.0.2
