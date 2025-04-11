@@ -8,8 +8,8 @@ A comprehensive solution for generating, managing, and querying technical docume
 
 Documentation Assistant combines two powerful tools in a single application:
 
-1. **Knowledge Base Generator** - Crawls documentation websites to build structured knowledge bases
-2. **Documentation Chatbot** - Provides natural language querying of your documentation using advanced retrieval techniques
+1. **Knowledge Base Generator** - Crawls documentation websites to build structured knowledge bases. ![Knowledge Base Generator](https://medium.com/@divyanshbhatiajm19/solving-the-documentation-maze-building-docbots-intelligent-web-crawler-part-1-23704c033805?sk=1a5e0e1300e82ed8f15c603394660b11)
+2. **Documentation Chatbot** - Provides natural language querying of your documentation using advanced retrieval techniques. ![Documentation Chatbot](https://medium.com/@divyanshbhatiajm19/article-2-docbots-rag-powered-documentation-assistant-making-knowledge-accessible-3a63b9effb75?sk=b78f86e7994ddbb1a7b532b0660a4596)
 
 This application uses a Flask API backend for processing and vector storage, with a Streamlit frontend for user interaction.
 
